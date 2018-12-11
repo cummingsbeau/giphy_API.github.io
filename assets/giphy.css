@@ -1,0 +1,22 @@
+body{
+background-image: url(../images/old_moon.png);
+font-family: 'Amatic SC', cursive;
+font-size: 30px;
+}
+button {	
+	margin: 10px;
+    display: inline;
+    font-size: 30px;
+}
+
+#gif-form {
+	margin: 20px;
+}
+
+#add-gif {
+	margin-left: 15px;
+}
+
+#display-gifs {
+	display: inline;
+}
